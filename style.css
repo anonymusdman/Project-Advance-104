@@ -1,0 +1,31 @@
+body {
+    background-color: firebrick;
+}
+h3 {
+    color: floralwhite;
+}
+#camera {
+    border: black;
+    border-radius: 15px;
+    border-width: 3px;
+    border-style: dashed;
+    padding: 3px;
+    width: 300px;
+    height: 500px;
+}
+.object_name {
+    border: black;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style: double;
+    padding: 3px;
+}
+#result {
+    border: black;
+    border-radius: 15px;
+    border-width: 3px;
+    border-style: dashed;
+    padding: 3px;
+    width: 300px;
+    height: 500px;
+}
